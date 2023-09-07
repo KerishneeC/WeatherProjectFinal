@@ -1,0 +1,90 @@
+h1 {
+  font-size: 50px;
+  color: midnightblue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  display: block;
+  margin: 0;
+}
+h2 {
+font-size: 70px;
+color:midnightblue;
+font-family:Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+display:block
+margin:0;
+}
+
+p1 {
+  font-size: 30px;
+  color:midnightblue;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin-left:130px;
+  }
+
+h3 {
+  font-size: 36px;
+  color: mediumblue;
+  text-align: center;
+  display: block;
+  margin:0;
+  font-family: :Georgia;
+
+}
+.weather {
+  font-size: 40px;
+  text-align: center;
+  color:blue;
+  margin:0;
+
+}
+
+h4 {
+  font-size: 25px;
+  color:midnightblue;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  display:block
+  margin:0;
+}
+
+.btn1 {
+  text-align: center ;
+  font-size: 25px ;
+  background-color: rgb(23, 23, 224);
+  color:white;
+  padding : 10px 20px;
+  cursor: pointer ;
+  margin-left: 200px ;
+  
+}
+
+.btn2 {
+  text-align: center ;
+  font-size: 25px ;
+  background-color: rgb(23, 23, 224);
+  color:white;
+  padding : 10px 20px;
+  cursor: pointer ;
+}
+
+.container {
+
+  background-color : beige;
+  
+
+}
+button {
+text-align: center ;
+  font-size: 15px ;
+  background-color: rgb(0, 65, 87);
+  color:white;
+  padding : 5px 20px;
+  cursor: pointer ;
+}
+
+
+
+
+
+
